@@ -8,9 +8,9 @@ This project contains simple, beginner-friendly examples of machine learning alg
 ## Examples Included
 1. Linear Regression
 2. Logistic Regression
-3. K-Means Clustering
-4. Decision Trees
-5. Principal Component Analysis (PCA)
+3. KNN Classificattion
+4. Cross Validation
+5. Model Evaluation 
 
 ## How to Use
 1. Clone this repository:
